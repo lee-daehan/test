@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>Hello</h1>
+	<h1>B2</h1>
 </body>
 </html>
